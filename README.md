@@ -70,7 +70,7 @@ I’m a passionate <strong>Front-End Developer</strong> and <strong>Computer Sci
 ## 🤝 Let's Connect  
 <p>
 <a href="https://www.linkedin.com/in/basmala-ayman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-<a href="mailto:basmala.ayman.1904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+<a href="mailto:basmala.ayman.zaky@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" /></a> -->
 </p>
 
