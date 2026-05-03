@@ -57,14 +57,15 @@ I’m a passionate <strong>Front-End Developer</strong> and <strong>Computer Sci
 ---
  -->
 <!-- GitHub Stats -->
+<!-- 
 ## 📊 GitHub Stats  
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=basmala-ayman&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmala-ayman&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
-
 ---
+ -->
 
 <!-- Connect -->
 ## 🤝 Let's Connect  
